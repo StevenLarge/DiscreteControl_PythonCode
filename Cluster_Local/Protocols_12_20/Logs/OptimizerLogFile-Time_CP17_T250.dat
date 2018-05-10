@@ -1,0 +1,10 @@
+Result --> [1.14106422e-07 3.19992450e+00 3.71021385e+00 5.01722112e+00
+ 1.96039001e+01 3.20552046e+01 4.07868862e+01 4.35916250e+01
+ 4.03712459e+01 3.17829463e+01 1.87019002e+01 4.37926004e+00
+ 3.55267122e+00 3.24700066e+00 1.16665778e-07]
+
+Message --> Optimization terminated successfully.
+
+Evaluations of objective function --> 1052
+
+Number of Optimizer iterations --> 57

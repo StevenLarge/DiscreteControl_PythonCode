@@ -1,0 +1,9 @@
+Result --> [2.46415415 2.63034229 2.7568074  2.97601161 3.30830647 3.95482085
+ 4.5854865  4.79720988 4.527539   3.91873161 3.27736404 2.92874359
+ 2.78828098 2.63622026 2.44998139]
+
+Message --> Optimization terminated successfully.
+
+Evaluations of objective function --> 580
+
+Number of Optimizer iterations --> 31

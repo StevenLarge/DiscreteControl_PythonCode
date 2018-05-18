@@ -386,6 +386,8 @@ axes[0].set_yticks([0.5,1,2,4,8,16])
 plt.show()
 plt.close()
 
+WriteWorkData()
+
 
 #fig,axes = plt.subplots(2,2,figsize=(10,7),sharex=True)
 
